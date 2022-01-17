@@ -1,0 +1,29 @@
+body
+
+    a:link
+   { 
+       color: sandybrown
+       display:inline-block ;
+       background-color: rgb(175, 148, 126, 0.965);
+       text-decoration: none;
+       padding: 20px;
+       font-size: 18px;
+       font-family: Arial, Helvetica, sans-serif;
+   }
+
+    a:active
+   {
+       color:pink; 
+       background-color: white;
+       text-decoration: none;
+       padding: 20px;
+       font-size: 18px; 
+       font-family:Arial, Helvetica, sans-serif;
+   }
+
+   table{
+
+    background-color: rgb(167,147,122);
+    margin:0 auto;
+    font-size: 22px;
+   }
